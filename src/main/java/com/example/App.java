@@ -10,6 +10,7 @@ public class App {
 
         kub kub = new kub(side);
         System.out.println("ezelhuun: " + kub.getVolume() + " " + "gadarguin talbai: " + kub.getSurfaceArea());
+        System.out.println("oorchlolt");
         scanner.close();
     }
 }
